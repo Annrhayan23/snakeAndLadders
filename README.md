@@ -74,13 +74,3 @@ java SnakeAndLadders
 * Add **sound effects** for dice roll, snakes, and ladders.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-If you want, I can also **create a ready-to-use GitHub repo structure** for this project with the proper `.java` files, `README.md`, and instructions so you can just push it.
-
-Do you want me to do that?
